@@ -23,7 +23,7 @@ UnderPandora
 
 ## subscribe Survice    
 - [교보문고 eBook sam](https://sam.kyobobook.co.kr/)
-- [예스24 크레마클럽](https://cremaclub.yes24.com/BookClub/Main)   
+- [예스24 크레마클럽](https://cremaclub.yes24.com/BookClub/Main) (26.01.07 open)   
 
 ---------------
 
