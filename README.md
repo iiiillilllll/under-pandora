@@ -1,7 +1,6 @@
 # 언더판도라
-UnderPandora  
-> 말은 면적이다.
---------------
+### UnderPandora  
+--------------------
 ###### Sorry. Only Korean.ver yet...  
 
 About
