@@ -2,12 +2,6 @@
 UnderPandora  
 > 말은 면적이다.
 --------------
-
-
-![underpnador][def]
-
-[def]: /img/low_pandora.jpg
-
 ###### Sorry. Only Korean.ver yet...  
 
 About
@@ -28,6 +22,11 @@ About
 - [예스24 크레마클럽](https://cremaclub.yes24.com/BookClub/Main) (26.01.07 open)   
 
 ---------------
+
+![underpnador][def]
+
+[def]: /img/low_pandora.jpg
+
 
 
 
