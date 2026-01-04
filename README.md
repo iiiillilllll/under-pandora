@@ -4,6 +4,9 @@
 <img src="img/low_pandora.jpg" width="300px" title="underpnadora" alt="underpnadora"></img>
 
 ###### Sorry. Only Korean.ver yet...  
+-----------------------
+>단무진은 마법소녀를 생산하는 매지컬 퀸 오리진을 열망한다.    
+오리진을 차지하기 위해 마법소녀 시스템을 해방하고 신단수 문명을 무너뜨리지만...
 
 About
 ------------------------
