@@ -1,6 +1,8 @@
 # 언더판도라
 ### UnderPandora  
 --------------------
+<img src="img/low_pandora.jpg" height="40%" title="underpnadora" alt="underpnadora"></img>
+
 ###### Sorry. Only Korean.ver yet...  
 
 About
@@ -21,10 +23,6 @@ About
 - [예스24 크레마클럽](https://cremaclub.yes24.com/BookClub/Main) (26.01.07 open)   
 
 ---------------
-
-![underpnador][def]
-
-[def]: /img/low_pandora.jpg
 
 
 
