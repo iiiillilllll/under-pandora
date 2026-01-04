@@ -1,7 +1,7 @@
 # 언더판도라
 ### UnderPandora  
 --------------------
-<img src="img/low_pandora.jpg" height="40%" title="underpnadora" alt="underpnadora"></img>
+<img src="img/low_pandora.jpg" height="20%" title="underpnadora" alt="underpnadora"></img>
 
 ###### Sorry. Only Korean.ver yet...  
 
