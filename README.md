@@ -5,7 +5,7 @@
 
 ###### Sorry. Only Korean.ver yet...  
 -----------------------
->단무진은 마법소녀를 생산하는 매지컬 퀸 오리진을 열망한다.    
+>이레귤러 마법소녀 무진은 마법소녀를 생산하는 매지컬 퀸 오리진을 열망한다.    
 오리진을 차지하기 위해 마법소녀 시스템을 해방하고 신단수 문명을 무너뜨리지만...
 
 About
@@ -23,7 +23,7 @@ About
 
 ## subscribe Survice    
 - [교보문고 eBook sam](https://sam.kyobobook.co.kr/)
-- [예스24 크레마클럽](https://cremaclub.yes24.com/BookClub/Main) (26.01.07 open)   
+- [예스24 크레마클럽](https://cremaclub.yes24.com/BookClub/Main) 
 
 ---------------
 
